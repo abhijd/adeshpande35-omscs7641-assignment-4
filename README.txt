@@ -9,6 +9,6 @@
 ## pip install -r requirements.txt
 
 ## python fr_lake_vi_pi_qlearning.py
-## python python forest_vi_pi_qlearning.p
+## python python forest_vi_pi_qlearning.py
 
 ### Run these scripts to prouce data for the asks described in the "The Problems Given to You" Section
