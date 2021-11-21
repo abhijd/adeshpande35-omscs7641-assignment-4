@@ -123,8 +123,8 @@ def runq():
     qdf.groupby("Epsilon").mean().to_html('files/Qlearning_forest_gb_epsilon.html')
 
 def main():
-    #runvi()
-    #runpi()
+    runvi()
+    runpi()
     runq()
 
 
